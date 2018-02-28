@@ -1,0 +1,54 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: dinamica.aux
+The style file: elsarticle-num.bst
+Database file #1: bibliodinamica.bib
+Warning--entry type for "oms" isn't style-file defined
+--line 1 of file bibliodinamica.bib
+Warning--I didn't find a database entry for "existencia"
+Warning--I didn't find a database entry for "elvesier"
+Warning--I didn't find a database entry for "libro"
+Warning--I didn't find a database entry for "pdf"
+Warning--I didn't find a database entry for "textolargo"
+You've used 2 entries,
+            2937 wiz_defined-function locations,
+            685 strings with 5480 characters,
+and the built_in function-call counts, 512 in all, are:
+= -- 42
+> -- 11
+< -- 0
++ -- 5
+- -- 3
+* -- 29
+:= -- 86
+add.period$ -- 2
+call.type$ -- 2
+change.case$ -- 2
+chr.to.int$ -- 0
+cite$ -- 2
+duplicate$ -- 16
+empty$ -- 61
+format.name$ -- 4
+if$ -- 127
+int.to.chr$ -- 0
+int.to.str$ -- 2
+missing$ -- 1
+newline$ -- 15
+num.names$ -- 2
+pop$ -- 17
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 30
+stack$ -- 0
+substring$ -- 21
+swap$ -- 3
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 3
+width$ -- 3
+write$ -- 22
+(There were 6 warnings)

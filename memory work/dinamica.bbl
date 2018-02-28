@@ -1,0 +1,19 @@
+\begin{thebibliography}{1}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{original}
+J.~H. R.J.~Smith?, P.~Cloutier, A.~D. A, A mathematical model for the
+  eradication of guinea worm disease, Understanding the Dynamics of Emerging
+  and Re- emerging Infectious Diseases Using Mathematical Models (2012)
+  133--156.
+
+\bibitem{oms}
+OMS, \href{http://www.who.int/mediacentre/factsheets/fs359/es/}{{OMS}
+  dracunculiasis portal} (2017).
+\newline\urlprefix\url{http://www.who.int/mediacentre/factsheets/fs359/es/}
+
+\end{thebibliography}
